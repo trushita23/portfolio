@@ -13,3 +13,4 @@ Portfolio is a web page to showcase all the skills and projects worked on. It ha
 Any browser.
 
 ### Link
+Use the following link to open the web page: https://trushita23.github.io/portfolio/
